@@ -1,4 +1,5 @@
-# NewsVerse
+# NewsVerse 📰  
+### [Visit Site 🔗](https://newsverse-sp.netlify.app/)
 
 NewsVerse is a React-based web application that delivers news articles from all over the world. It offers various features such as filtering by country, browsing different categories, weather updates, and a search function to find specific news. The project utilizes React Bootstrap for styling, the GNews.io API for fetching news data, and HTML/CSS for additional design elements.
 
